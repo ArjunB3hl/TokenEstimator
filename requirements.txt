@@ -1,0 +1,7 @@
+Flask
+python-dotenv
+openai
+torch
+scikit-learn
+numpy
+anthropic
